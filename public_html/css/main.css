@@ -1,0 +1,75 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+#container {
+    max-width: 1900px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.head {
+    background: #0f0;
+    text-align: center;
+    height: 5%;
+}
+
+.left-sidebar {
+    background: #0ff;
+    float: left;
+    height: 90%;
+    width: 20%;
+    margin-top: 5px
+}
+
+.content {
+    background: #ccc;
+    margin: 5px 21%;
+    height: 90%;
+    width: 58%;
+}
+
+.right-sidebar {
+    background: #00f;
+    float: right;
+    height: 90%;
+    width: 20%;
+    margin: 5px;
+}
+
+.footer {
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+
+table {
+    width: 40%;
+    border-collapse: collapse; /*убираем пустые промежутки между ячейками*/
+    border: 1px solid grey; /*устанавливаем для таблицы внешнюю границу серого цвета толщиной 1px*/
+    border-top: 3px solid grey;
+}
+
+th {
+    border: 3px solid black;
+    background-color: blanchedalmond;
+}
+
+tr {
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
